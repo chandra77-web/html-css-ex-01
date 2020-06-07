@@ -20,8 +20,11 @@ Saat ini, populasi panda semakin sedikit. Maka itu, panda masuk ke dalam daftar 
 
 <html>
 <body background ="./gambar/white.gif">
-<img src="./C:\Users\ACER\Pictures\Saved Pictures\panda.jpg"
-Height="150"width ="300">
+<img src="./C:\Users\ACER\Pictures\Saved Pictures\panda.jpg" <form action="proses.php" method="get">
+      <input type="image" src="koala.jpg" alt="gambar koala"
+      name="gambar_koala"/>
+   </form>
+<Height="150"width ="300">
 <br>
 
 <html>
