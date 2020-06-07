@@ -22,14 +22,6 @@ Saat ini, populasi panda semakin sedikit. Maka itu, panda masuk ke dalam daftar 
 <img src="./C:\Users\ACER\Pictures\Saved Pictures\panda.jpg"
 Height="150"width ="300">
 <br>
-<img src="/C:\Users\ACER\Pictures\Saved Pictures\panda.jpg"
-height="100"WIDTH="200">
-<br>
-<img src ="/C:\Users\ACER\Pictures\Saved Pictures\panda.jpg"
-Height="75" width="150">
-<br>
-</body>
-</html>
 
 <html>
 <body>
