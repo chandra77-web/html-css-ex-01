@@ -4,7 +4,7 @@
 </head>
 <BODY background ="./gambar/white.gif">
 <BODY background ="./gambar/white.gif">
-<IMG SRC="./C:\Users\ACER\Pictures\Saved Pictures\panda.jpg"
+<IMG SRC="./C:\Users\ACER\Pictures\Saved Pictures\gambar panda.jpg"
 align ="left"border=2>
 <FONT size= "4" tampilan gambar panda </font><BR><br>
 panda merupakan hewan asli dari tiongkok, hewan memiliki karakter yang penyendiri semua di lakukan sendiri, mulai dari makan, tidur sampai bermain pun sendiri makanan kesukaan hewan ini adalah bambu, namun hewan ini sangat susah di temui karna habitat yang sangat sedikit
@@ -21,8 +21,8 @@ Saat ini, populasi panda semakin sedikit. Maka itu, panda masuk ke dalam daftar 
 <html>
 <body background ="./gambar/white.gif">
 <img src="./C:\Users\ACER\Pictures\Saved Pictures\panda.jpg" <form action="proses.php" method="get">
-      <input type="image" src="koala.jpg" alt="gambar koala"
-      name="gambar_koala"/>
+      <input type="image" src="koala.jpg" alt="gambar panda"
+      name="gambar_panda"/>
    </form>
 <Height="150"width ="300">
 <br>
