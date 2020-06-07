@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>form panda</title>
+					FORM PANDA
 </head>
 <BODY background ="./gambar/white.gif">
 <form action="proses.php" method="get">
